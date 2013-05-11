@@ -1,0 +1,17 @@
+{
+  "name": "Coin Toss",
+  "description": "In doubth of what to do? Let the coin decide!",
+  "type": "privileged",
+  "launch_path": "main.html",
+  "version": "0.0.0.1",
+  "permissions": {},
+  "developer": {
+    "name": "Morten Olsen Lysgaard & RedBadger http://red-badger.com/blog/2013/02/13/simple-3d-without-canvas-or-webgl/",
+    "url": "http://mortenlysgaard.com"
+  },
+  "default_locale": "en",
+  "icons":{
+    "60": "/icon_60.png",
+    "30": "/icon_30.png"
+  }
+}
